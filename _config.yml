@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Venkatesh Krishnamurthy"
 title_separator          : "-"
 name                     : &name "Venkatesh Krishnamurthy"
-description              : &description "personal description"
+description              : &description "Ph.D. candidate at Carnegie Mellon University"
 url                      : https://venkkris.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "venkkris/venkkris.github.io"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Venkatesh Krishnamurthy"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Ph.D. candidate at Carnegie Mellon University"
+  location         : "Pittsburgh, PA"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+#  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://scholar.google.com/citations?user=IegHgbwAAAAJ&hl=en"
+  email            : "venkatek@andrew.cmu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,20 +96,21 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "venkkris"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/venkatesh-krishnamurthy/"
+#  orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
+  strava           : "https://www.strava.com/athletes/48426913"
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "venk_kris"
   vine             :
   weibo            :
   xing             :
