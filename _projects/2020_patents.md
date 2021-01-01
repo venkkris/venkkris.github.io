@@ -1,5 +1,5 @@
 ---
-title: "Patents course project"
+title: "Draft patent application on protective coatings for Lithium metal anode"
 collection: talks
 type: "Course project"
 link: "https://venkkris.github.io/files/patents_project_report.pdf"
