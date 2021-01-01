@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a materials scientist and a Ph.D. candidate in materials science & engineering researching on batteries for electric aviation. 
+I am a materials scientist and a Ph.D. candidate in materials science & engineering researching on batteries for electric aviation. Here's my recent [CV](https://venkkris.github.io/files/CV.pdf).
 
 Prior to joining Carnegie Mellon in 2018, I pursued an internship at the [ARCI Centre for Automotive Energy Materials](https://www.arci.res.in/centres-about-automotive-energy-materials) where I developed a novel route for the synthesis of core-shell gradient cobalt-doped sodium titanate and characterized their electrochemical performance in sodium-ion batteries. 
 
