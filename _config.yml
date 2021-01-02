@@ -191,6 +191,9 @@ collections:
   projects:
     output: true
     permalink: /:collection/:path/
+  awards:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
